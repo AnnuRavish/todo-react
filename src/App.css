@@ -1,0 +1,33 @@
+input {
+  width: 100%;
+}
+
+.kg-button {
+  min-width: 80px;
+  margin-left: 50px;
+}
+
+.kg-row {
+  margin: 10px 5px;
+}
+
+.todoHeading {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+
+}
+
+
+.items-container {
+  text-align: left;
+}
+
+.enjoy-your {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  color: rgb(185, 22, 206);
+}
